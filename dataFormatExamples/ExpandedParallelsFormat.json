@@ -1,0 +1,55 @@
+{
+  full: [
+    {
+      id: 'lzh-mi-bi-pm-pc137',
+      about: [Object],
+      inLanguage: 'Lzh',
+      isPartOf: 'Taishō',
+      text: 'text here',
+      label: 'Mahīśāsaka Bhikkhunī Pacitiya 137'
+    },
+    {
+      id: 'lzh-sarv-bi-pm-pc79',
+      about: [Object],
+      inLanguage: 'Lzh',
+      isPartOf: 'Taishō',
+      text: '若比丘尼。棄屎尿著生草上。波夜提。',
+      label: 'Sarvāstivāda Bhikkhunī Pācittiya 79'
+    },
+    {
+      id: 'lzh-mu-bi-pm-pc79',
+      about: [Object],
+      inLanguage: 'Lzh',
+      isPartOf: 'Taishō',
+      text: '若復苾芻尼在生草上。大小便洟唾者。波逸底迦。',
+      label: 'Mūlasarvāstivāda Bhikkhunī Pācittiya 79'
+    },
+    {
+      id: 'lzh-mg-bi-pm-pc139',
+      about: [Object],
+      inLanguage: 'Lzh',
+      isPartOf: 'Taishō',
+      text: '若比丘尼。水中大小便波夜提。',
+      label: 'Mahāsaṅghika Bhikkhunī Pācittiya 139'
+    }
+  ],
+  partial: [
+    {
+      id: 'pli-tv-bi-pm-pc9',
+      about: [Object],
+      inLanguage: 'pli',
+      isPartOf: 'Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500',
+      name: 'Dutiyauccārachaḍḍanasikkhāpadaṁ',
+      text: 'Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṁ.',
+      label: 'Paḷī Text Bhikkhunī Pācittiya 9'
+    },
+    {
+      id: 'lzh-dg-bi-pm-pc77',
+      about: [Object],
+      inLanguage: 'Lzh',
+      isPartOf: 'Taishō',
+      text: '「若比丘尼，在生草上大小便，波逸提。',
+      label: 'Dharmaguptaka Bhikkhunī Pācittiya 77'
+    }
+  ]
+}

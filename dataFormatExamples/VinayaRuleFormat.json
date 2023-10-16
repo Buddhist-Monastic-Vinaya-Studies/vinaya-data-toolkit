@@ -1,0 +1,29 @@
+[
+ {"id": "lzh-mu-bi-pm-pj1",
+ "about": {
+  "vinayaTradition": "Mūlasarvāstivāda",
+  "offenseClass": "Pārajika"},
+  "inLanguage" : "Lzh",
+  "isPartOf": "Taishō",
+  "text": "若復苾芻尼與諸苾芻尼同得學處。不捨學處。學羸不自說。作不淨行。兩交會法。乃至共傍生。此苾芻尼亦得波羅市迦。不當學住。",
+ "label": "Mūlasarvāstivāda Bhikkhunī Pārājika 1"
+ },
+ {"id": "lzh-mu-bi-pm-pj2",
+ "about": {
+  "vinayaTradition": "Mūlasarvāstivāda",
+  "offenseClass": "Pārajika"},
+  "inLanguage" : "Lzh",
+  "isPartOf": "Taishō",
+  "text": "text here",
+ "label": "Mūlasarvāstivāda Bhikkhunī Pārājika 2"
+ },
+ {"id": "lzh-mu-bi-pm-pj3",
+ "about": {
+  "vinayaTradition": "Mūlasarvāstivāda",
+  "offenseClass": "Pārajika"},
+  "inLanguage" : "Lzh",
+  "isPartOf": "Taishō",
+  "text": "more text here",
+ "label": "Mūlasarvāstivāda Bhikkhunī Pārājika 3"
+ }
+]

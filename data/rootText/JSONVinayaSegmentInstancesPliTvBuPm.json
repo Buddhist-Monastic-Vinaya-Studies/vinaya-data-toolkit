@@ -1,0 +1,2271 @@
+[{
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pj1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Parajika", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pj1",
+ "name": "Methunadhamma",
+ "text": "Yo pana bhikkhu bhikkhūnaṁ sikkhāsājīvasamāpanno sikkhaṁ appaccakkhāya dubbalyaṁ anāvikatvā methunaṁ dhammaṁ paṭiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṁvāso.",
+ "label": "Paḷī Text Bhikkhu Pārājika 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pj2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Parajika", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pj2",
+ "name": "Adinnādāna",
+ "text": "Yo pana bhikkhu gāmā vā araññā vā adinnaṁ theyyasaṅkhātaṁ ādiyeyya, yathārūpe adinnādāne rājāno coraṁ gahetvā haneyyuṁ vā bandheyyuṁ vā pabbājeyyuṁ vā corosi bālosi mūḷhosi thenosīti, tathārūpaṁ bhikkhu adinnaṁ ādiyamāno ayampi pārājiko hoti asaṁvāso.",
+ "label": "Paḷī Text Bhikkhu Pārājika 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pj3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Parajika", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pj3",
+ "name": "Manussaviggaha",
+ "text": "Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṁ tuyhiminā pāpakena dujjīvitena, mataṁ te jīvitā seyyo”ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājiko hoti asaṁvāso.",
+ "label": "Paḷī Text Bhikkhu Pārājika 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pj4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Parajika", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pj4",
+ "name": "Uttarimanussadhamma",
+ "text": "Yo pana bhikkhu anabhijānaṁ uttarimanussadhammaṁ attupanāyikaṁ alamariyañāṇadassanaṁ samudācareyya “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṁ vadeyya “ajānamevaṁ āvuso avacaṁ jānāmi, apassaṁ passāmi, tucchaṁ musā vilapi”nti, aññatra adhimānā, ayampi pārājiko hoti asaṁvāso.",
+ "label": "Paḷī Text Bhikkhu Pārājika 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss1",
+ "name": "Sukkavissaṭṭhi",
+ "text": "Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss2",
+ "name": "Kāyasaṁsagga",
+ "text": "Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya hatthaggāhaṁ vā veṇiggāhaṁ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṁ, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss3",
+ "name": "Duṭṭhullavācā",
+ "text": "Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṁ duṭṭhullāhi vācāhi obhāseyya yathā taṁ yuvā yuvatiṁ methunupasaṁhitāhi, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss4",
+ "name": "Attakāmapāricariya",
+ "text": "Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāseyya “etadaggaṁ bhagini pāricariyānaṁ yā mādisaṁ sīlavantaṁ kalyāṇadhammaṁ brahmacāriṁ etena dhammena paricareyyā”ti methunupasaṁhitena, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss5",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss5",
+ "name": "Sañcaritta",
+ "text": "Yo pana bhikkhu sañcarittaṁ samāpajjeyya itthiyā vā purisamatiṁ purisassa vā itthimatiṁ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 5"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss6",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss6",
+ "name": "Kuṭikāra",
+ "text": "Saññācikāya pana bhikkhunā kuṭiṁ kārayamānena assāmikaṁ attuddesaṁ pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṁ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane saññācikāya kuṭiṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṁ vā atikkāmeyya, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 6"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss7",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss7",
+ "name": "Vihārakāra",
+ "text": "Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena sassāmikaṁ attuddesaṁ bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane mahallakaṁ vihāraṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 7"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss8",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss8",
+ "name": "Duṭṭhadosa",
+ "text": "Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṁseyya “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañceva taṁ adhikaraṇaṁ hoti, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 8"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss9",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss9",
+ "name": "Aññabhāgiya",
+ "text": "Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁseyya “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañceva taṁ adhikaraṇaṁ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 9"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss10",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss10",
+ "name": "Saṅghabheda",
+ "text": "Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha aṭṭhāsi, sametāyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 10"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss11",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss11",
+ "name": "Bhedānuvattaka",
+ "text": "Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā, te evaṁ vadeyyuṁ “māyasmanto etaṁ bhikkhuṁ kiñci avacuttha, dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu, amhākañceso bhikkhu chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṁ khamatī”ti, te bhikkhū bhikkhūhi evamassu vacanīyā “māyasmanto evaṁ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṁ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṁ, te bhikkhū bhikkhūhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ, iccetaṁ kusalaṁ, no ce paṭinissajjeyyuṁ, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 11"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss12",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss12",
+ "name": "Dubbaca",
+ "text": "Bhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṁ vuccamāno attānaṁ avacanīyaṁ karoti “mā maṁ āyasmanto kiñci avacuttha kalyāṇaṁ vā pāpakaṁ vā, ahampāyasmante na kiñci vakkhāmi kalyāṇaṁ vā pāpakaṁ vā, viramathāyasmanto mama vacanāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā attānaṁ avacanīyaṁ akāsi, vacanīyamevāyasmā attānaṁ karotu, āyasmāpi bhikkhū vadatu sahadhammena, bhikkhūpi āyasmantaṁ vakkhanti sahadhammena, evaṁ saṁvaddhā hi tassa bhagavato parisā yadidaṁ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 12"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-ss13",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sanghadisesa", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-ss13",
+ "name": "Kuladūsaka",
+ "text": "Bhikkhu paneva aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati kuladūsako pāpasamācāro, tassa kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tena duṭṭhāni dissanti ceva suyyanti ca, so bhikkhu bhikkhūhi evamassa vacanīyo “āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṁ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṁ vadeyya “chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṁ pabbājenti, ekaccaṁ na pabbājentī”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṁ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino, āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṁ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, saṅghādiseso.",
+ "label": "Paḷī Text Bhikkhu Saṅghādisesa 13"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined1",
+ "name": "Paṭhamaaniyata",
+ "text": "Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappeyya, tamenaṁ saddheyyavacasā upāsikā disvā tiṇṇaṁ dhammānaṁ aññatarena vadeyya pārājikena vā saṅghādisesena vā pācittiyena vā, nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayaṁ dhammo aniyato.",
+ "label": "Paḷī Text Bhikkhu Aniyata 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined2",
+ "name": "Dutiyaaniyata",
+ "text": "Na heva kho pana paṭicchannaṁ āsanaṁ hoti nālaṅkammaniyaṁ, alañca kho hoti mātugāmaṁ duṭṭhullāhi vācāhi obhāsituṁ, yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya, tamenaṁ saddheyyavacasā upāsikā disvā dvinnaṁ dhammānaṁ aññatarena vadeyya saṅghādisesena vā pācittiyena vā, nisajjaṁ bhikkhu paṭijānamāno dvinnaṁ dhammānaṁ aññatarena kāretabbo saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayampi dhammo aniyato.",
+ "label": "Paḷī Text Bhikkhu Aniyata 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined1",
+ "name": "Kathina",
+ "text": "Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ, taṁ atikkāmayato nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined2",
+ "name": "Udosita",
+ "text": "Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined3",
+ "name": "Akālacīvara",
+ "text": "Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine bhikkhuno paneva akālacīvaraṁ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṁ, paṭiggahetvā khippameva kāretabbaṁ, no cassa pāripūri, māsaparamaṁ tena bhikkhunā taṁ cīvaraṁ nikkhipitabbaṁ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined4",
+ "name": "Purāṇacīvara",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined5",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined5",
+ "name": "Cīvarapaṭiggahaṇa",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṁ paṭiggaṇheyya aññatra pārivattakā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 5"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined6",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined6",
+ "name": "Aññātakaviññatti",
+ "text": "Yo pana bhikkhu aññātakaṁ gahapatiṁ vā gahapatāniṁ vā cīvaraṁ viññāpeyya aññatra samayā, nissaggiyaṁ pācittiyaṁ. Tatthāyaṁ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 6"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined7",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined7",
+ "name": "Tatuttari",
+ "text": "Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṁ pavāreyya, santaruttaraparamaṁ tena bhikkhunā tato cīvaraṁ sāditabbaṁ. Tato ce uttari sādiyeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 7"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined8",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined8",
+ "name": "Paṭhamaupakkhaṭa",
+ "text": "Bhikkhuṁ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṁ upakkhaṭaṁ hoti “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuṁ cīvarena acchādessāmī”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya “sādhu vata maṁ āyasmā iminā cīvaracetāpannena evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādehī”ti kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 8"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined9",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined9",
+ "name": "Dutiyaupakkhaṭa",
+ "text": "Bhikkhuṁ paneva uddissa ubhinnaṁ aññātakānaṁ gahapatīnaṁ vā gahapatānīnaṁ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṁ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṁ bhikkhuṁ cīvarehi acchādessāmā”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya “sādhu vata maṁ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 9"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined10",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined10",
+ "name": "Rāja",
+ "text": "Bhikkhuṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuṁ cīvarena acchādehī”ti. So ce dūto taṁ bhikkhuṁ upasaṅkamitvā evaṁ vadeyya “idaṁ kho, bhante, āyasmantaṁ uddissa cīvaracetāpannaṁ ābhataṁ, paṭiggaṇhātu āyasmā cīvaracetāpanna”nti. Tena bhikkhunā so dūto evamassa vacanīyo “na kho mayaṁ, āvuso, cīvaracetāpannaṁ paṭiggaṇhāma, cīvarañca kho mayaṁ paṭiggaṇhāma kālena kappiya”nti. So ce dūto taṁ bhikkhuṁ evaṁ vadeyya “atthi panāyasmato koci veyyāvaccakaro”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhūnaṁ veyyāvaccakaro”ti. So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkhuṁ upasaṅkamitvā evaṁ vadeyya “yaṁ kho, bhante, āyasmā veyyāvaccakaraṁ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṁ acchādessatī”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṁ codetabbo sāretabbo “attho me, āvuso, cīvarenā”ti, dvattikkhattuṁ codayamāno sārayamāno taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ, no ce abhinipphādeyya, catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūtena uddissa ṭhātabbaṁ, catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūto uddissa tiṭṭhamāno taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ, tato ce uttari vāyamamāno taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. No ce abhinipphādeyya, yatassa cīvaracetāpannaṁ ābhataṁ, tattha sāmaṁ vā gantabbaṁ, dūto vā pāhetabbo “yaṁ kho tumhe āyasmanto bhikkhuṁ uddissa cīvaracetāpannaṁ pahiṇittha, na taṁ tassa bhikkhuno kiñci atthaṁ anubhoti, yuñjantāyasmanto sakaṁ, mā vo sakaṁ vinassā”ti, ayaṁ tattha sāmīci.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 10"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined11",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined11",
+ "name": "Kosiya",
+ "text": "Yo pana bhikkhu kosiyamissakaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 11"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined12",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined12",
+ "name": "Suddhakāḷaka",
+ "text": "Yo pana bhikkhu suddhakāḷakānaṁ eḷakalomānaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 12"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined13",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined13",
+ "name": "Dvebhāga",
+ "text": "Navaṁ pana bhikkhunā santhataṁ kārayamānena dve bhāgā suddhakāḷakānaṁ eḷakalomānaṁ ādātabbā, tatiyaṁ odātānaṁ, catutthaṁ gocariyānaṁ. Anādā ce bhikkhu dve bhāge suddhakāḷakānaṁ eḷakalomānaṁ, tatiyaṁ odātānaṁ, catutthaṁ gocariyānaṁ, navaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 13"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined14",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined14",
+ "name": "Chabbassa",
+ "text": "Navaṁ pana bhikkhunā santhataṁ kārāpetvā chabbassāni dhāretabbaṁ, orena ce channaṁ vassānaṁ taṁ santhataṁ vissajjetvā vā avissajjetvā vā aññaṁ navaṁ santhataṁ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 14"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined15",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined15",
+ "name": "Nisīdanasanthata",
+ "text": "Nisīdanasanthataṁ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya. Anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṁ, navaṁ nisīdanasanthataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 15"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined16",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined16",
+ "name": "Eḷakaloma",
+ "text": "Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṁ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṁ sahatthā haritabbāni asante hārake. Tato ce uttari hareyya, asantepi hārake, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 16"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined17",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined17",
+ "name": "Eḷakalomadhovāpana",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā eḷakalomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 17"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined18",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined18",
+ "name": "Rūpiya",
+ "text": "Yo pana bhikkhu jātarūparajataṁ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṁ vā sādiyeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 18"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined19",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined19",
+ "name": "Rūpiyasaṁvohāra",
+ "text": "Yo pana bhikkhu nānappakārakaṁ rūpiyasaṁvohāraṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 19"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined20",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined20",
+ "name": "Kayavikkaya",
+ "text": "Yo pana bhikkhu nānappakārakaṁ kayavikkayaṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 20"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined21",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined21",
+ "name": "Patta",
+ "text": "Dasāhaparamaṁ atirekapatto dhāretabbo, taṁ atikkāmayato nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 21"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined22",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined22",
+ "name": "Ūnapañcabandhana",
+ "text": "Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo “ayaṁ te bhikkhu patto yāva bhedanāya dhāretabbo”ti, ayaṁ tattha sāmīci.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 22"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined23",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined23",
+ "name": "Bhesajja",
+ "text": "Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ—sappi navanītaṁ telaṁ madhu phāṇitaṁ, tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni, taṁ atikkāmayato nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 23"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined24",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined24",
+ "name": "Vassikasāṭika",
+ "text": "“Māso seso gimhāna”nti bhikkhunā vassikasāṭikacīvaraṁ pariyesitabbaṁ, “addhamāso seso gimhāna”nti katvā nivāsetabbaṁ. Orena ce “māso seso gimhāna”nti vassikasāṭikacīvaraṁ pariyeseyya, orena“ddhamāso seso gimhāna”nti katvā nivāseyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 24"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined25",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined25",
+ "name": "Cīvaraacchindana",
+ "text": "Yo pana bhikkhu bhikkhussa sāmaṁ cīvaraṁ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 25"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined26",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined26",
+ "name": "Suttaviññatti",
+ "text": "Yo pana bhikkhu sāmaṁ suttaṁ viññāpetvā tantavāyehi cīvaraṁ vāyāpeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 26"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined27",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined27",
+ "name": "Mahāpesakāra",
+ "text": "Bhikkhuṁ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṁ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṁ āpajjeyya “idaṁ kho, āvuso, cīvaraṁ maṁ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṁ kiñcimattaṁ anupadajjeyyāmā”ti. Evañca so bhikkhu vatvā kiñcimattaṁ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 27"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined28",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined28",
+ "name": "Accekacīvara",
+ "text": "Dasāhānāgataṁ kattikatemāsikapuṇṇamaṁ bhikkhuno paneva accekacīvaraṁ uppajjeyya, accekaṁ maññamānena bhikkhunā paṭiggahetabbaṁ, paṭiggahetvā yāva cīvarakālasamayaṁ nikkhipitabbaṁ. Tato ce uttari nikkhipeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 28"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined29",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined29",
+ "name": "Sāsaṅka",
+ "text": "Upavassaṁ kho pana kattikapuṇṇamaṁ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya, chārattaparamaṁ tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 29"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-undefined30",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_undefined", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-undefined30",
+ "name": "Pariṇata",
+ "text": "Yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmeyya, nissaggiyaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Nissaggiya Pācittiya 30"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc1",
+ "name": "Musāvāda",
+ "text": "Sampajānamusāvāde pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc2",
+ "name": "Omasavāda",
+ "text": "Omasavāde pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc3",
+ "name": "Pesuñña",
+ "text": "Bhikkhupesuññe pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc4",
+ "name": "Padasodhamma",
+ "text": "Yo pana bhikkhu anupasampannaṁ padaso dhammaṁ vāceyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc5",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc5",
+ "name": "Paṭhamasahaseyya",
+ "text": "Yo pana bhikkhu anupasampannena uttaridirattatirattaṁ sahaseyyaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 5"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc6",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc6",
+ "name": "Dutiyasahaseyya",
+ "text": "Yo pana bhikkhu mātugāmena sahaseyyaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 6"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc7",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc7",
+ "name": "Dhammadesanā",
+ "text": "Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṁ deseyya aññatra viññunā purisaviggahena, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 7"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc8",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc8",
+ "name": "Bhūtārocana",
+ "text": "Yo pana bhikkhu anupasampannassa uttarimanussadhammaṁ āroceyya, bhūtasmiṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 8"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc9",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc9",
+ "name": "Duṭṭhullārocana",
+ "text": "Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 9"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc10",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc10",
+ "name": "Pathavīkhaṇana",
+ "text": "Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 10"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc11",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc11",
+ "name": "Bhūtagāma",
+ "text": "Bhūtagāmapātabyatāya pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 11"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc12",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc12",
+ "name": "Aññavādaka",
+ "text": "Aññavādake, vihesake pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 12"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc13",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc13",
+ "name": "Ujjhāpanaka",
+ "text": "Ujjhāpanake, khiyyanake pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 13"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc14",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc14",
+ "name": "Paṭhamasenāsana",
+ "text": "Yo pana bhikkhu saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā vā santharāpetvā vā taṁ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 14"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc15",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc15",
+ "name": "Dutiyasenāsana",
+ "text": "Yo pana bhikkhu saṅghike vihāre seyyaṁ santharitvā vā santharāpetvā vā taṁ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 15"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc16",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc16",
+ "name": "Anupakhajja",
+ "text": "Yo pana bhikkhu saṅghike vihāre jānaṁ pubbupagataṁ bhikkhuṁ anupakhajja seyyaṁ kappeyya “yassa sambādho bhavissati, so pakkamissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 16"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc17",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc17",
+ "name": "Nikkaḍḍhana",
+ "text": "Yo pana bhikkhu bhikkhuṁ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 17"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc18",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc18",
+ "name": "Vehāsakuṭi",
+ "text": "Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 18"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc19",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc19",
+ "name": "Mahallakavihāra",
+ "text": "Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṁ appaharite ṭhitena adhiṭṭhātabbaṁ, tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 19"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc20",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc20",
+ "name": "Sappāṇaka",
+ "text": "Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñceyya vā siñcāpeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 20"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc21",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc21",
+ "name": "Ovāda",
+ "text": "Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 21"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc22",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc22",
+ "name": "Atthaṅgata",
+ "text": "Sammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 22"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc23",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc23",
+ "name": "Bhikkhunupassaya",
+ "text": "Yo pana bhikkhu bhikkhunupassayaṁ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo, gilānā hoti bhikkhunī, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 23"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc24",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc24",
+ "name": "Āmisa",
+ "text": "Yo pana bhikkhu evaṁ vadeyya “āmisahetu therā bhikkhū bhikkhuniyo ovadantī”ti, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 24"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc25",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc25",
+ "name": "Cīvaradāna",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ dadeyya aññatra pārivattakā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 25"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc26",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc26",
+ "name": "Cīvarasibbana",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ sibbeyya vā sibbāpeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 26"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc27",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc27",
+ "name": "Saṁvidhāna",
+ "text": "Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya antamaso gāmantarampi aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 27"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc28",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc28",
+ "name": "Nāvābhiruhana",
+ "text": "Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ekaṁ nāvaṁ abhiruheyya uddhaṅgāminiṁ vā adhogāminiṁ vā aññatra tiriyaṁ taraṇāya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 28"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc29",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc29",
+ "name": "Paripācita",
+ "text": "Yo pana bhikkhu jānaṁ bhikkhuniparipācitaṁ piṇḍapātaṁ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 29"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc30",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc30",
+ "name": "Rahonisajja",
+ "text": "Yo pana bhikkhu bhikkhuniyā saddhiṁ eko ekāya raho nisajjaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 30"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc31",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc31",
+ "name": "Āvasathapiṇḍa",
+ "text": "Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 31"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc32",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc32",
+ "name": "Gaṇabhojana",
+ "text": "Gaṇabhojane aññatra samayā pācittiyaṁ. Tatthāyaṁ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 32"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc33",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc33",
+ "name": "Paramparabhojana",
+ "text": "Paramparabhojane aññatra samayā pācittiyaṁ. Tatthāyaṁ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 33"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc34",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc34",
+ "name": "Kāṇamātu",
+ "text": "Bhikkhuṁ paneva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhuṁ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṁ. Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṁ saṁvibhajitabbaṁ, ayaṁ tattha sāmīci.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 34"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc35",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc35",
+ "name": "Paṭhamapavāraṇā",
+ "text": "Yo pana bhikkhu bhuttāvī pavārito anatirittaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 35"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc36",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc36",
+ "name": "Dutiyapavāraṇā",
+ "text": "Yo pana bhikkhu bhikkhuṁ bhuttāviṁ pavāritaṁ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṁ pavāreyya “handa bhikkhu khāda vā bhuñja vā”ti jānaṁ āsādanāpekkho, bhuttasmiṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 36"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc37",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc37",
+ "name": "Vikālabhojana",
+ "text": "Yo pana bhikkhu vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 37"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc38",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc38",
+ "name": "Sannidhikāraka",
+ "text": "Yo pana bhikkhu sannidhikārakaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 38"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc39",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc39",
+ "name": "Paṇītabhojana",
+ "text": "Yāni kho pana tāni paṇītabhojanāni, seyyathidaṁ—sappi, navanītaṁ, telaṁ, madhu, phāṇitaṁ, maccho, maṁsaṁ, khīraṁ, dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 39"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc40",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc40",
+ "name": "Dantapona",
+ "text": "Yo pana bhikkhu adinnaṁ mukhadvāraṁ āhāraṁ āhareyya aññatra udakadantaponā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 40"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc41",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc41",
+ "name": "Acelaka",
+ "text": "Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 41"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc42",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc42",
+ "name": "Uyyojana",
+ "text": "Yo pana bhikkhu bhikkhuṁ “ehāvuso, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā”ti tassa dāpetvā vā adāpetvā vā uyyojeyya “gacchāvuso, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 42"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc43",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc43",
+ "name": "Sabhojana",
+ "text": "Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 43"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc44",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc44",
+ "name": "Rahopaṭicchanna",
+ "text": "Yo pana bhikkhu mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 44"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc45",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc45",
+ "name": "Rahonisajja",
+ "text": "Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 45"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc46",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc46",
+ "name": "Cāritta",
+ "text": "Yo pana bhikkhu nimantito sabhatto samāno santaṁ bhikkhuṁ anāpucchā purebhattaṁ vā pacchābhattaṁ vā kulesu cārittaṁ āpajjeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 46"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc47",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc47",
+ "name": "Mahānāma",
+ "text": "Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 47"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc48",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc48",
+ "name": "Uyyuttasenā",
+ "text": "Yo pana bhikkhu uyyuttaṁ senaṁ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 48"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc49",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc49",
+ "name": "Senāvāsa",
+ "text": "Siyā ca tassa bhikkhuno kocideva paccayo senaṁ gamanāya, dirattatirattaṁ tena bhikkhunā senāya vasitabbaṁ. Tato ce uttari vaseyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 49"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc50",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc50",
+ "name": "Uyyodhika",
+ "text": "Dirattatirattaṁ ce bhikkhu senāya vasamāno uyyodhikaṁ vā balaggaṁ vā senābyūhaṁ vā anīkadassanaṁ vā gaccheyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 50"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc51",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc51",
+ "name": "Surāpāna",
+ "text": "Surāmerayapāne pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 51"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc52",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc52",
+ "name": "Aṅgulipatodaka",
+ "text": "Aṅgulipatodake pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 52"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc53",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc53",
+ "name": "Hasadhamma",
+ "text": "Udake hasadhamme pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 53"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc54",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc54",
+ "name": "Anādariya",
+ "text": "Anādariye pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 54"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc55",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc55",
+ "name": "Bhiṁsāpana",
+ "text": "Yo pana bhikkhu bhikkhuṁ bhiṁsāpeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 55"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc56",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc56",
+ "name": "Joti",
+ "text": "Yo pana bhikkhu agilāno visibbanāpekkho jotiṁ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 56"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc57",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc57",
+ "name": "Nahāna",
+ "text": "Yo pana bhikkhu orenaddhamāsaṁ nahāyeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṁ tattha samayo.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 57"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc58",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc58",
+ "name": "Dubbaṇṇakaraṇa",
+ "text": "Navaṁ pana bhikkhunā cīvaralābhena tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhu tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 58"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc59",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc59",
+ "name": "Vikappana",
+ "text": "Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 59"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc60",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc60",
+ "name": "Apanidhāna",
+ "text": "Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhopi, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 60"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc61",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc61",
+ "name": "Sañcicca",
+ "text": "Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 61"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc62",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc62",
+ "name": "Sappāṇaka",
+ "text": "Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ paribhuñjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 62"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc63",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc63",
+ "name": "Ukkoṭana",
+ "text": "Yo pana bhikkhu jānaṁ yathādhammaṁ nihatādhikaraṇaṁ punakammāya ukkoṭeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 63"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc64",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc64",
+ "name": "Duṭṭhulla",
+ "text": "Yo pana bhikkhu bhikkhussa jānaṁ duṭṭhullaṁ āpattiṁ paṭicchādeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 64"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc65",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc65",
+ "name": "Ūnavīsativassa",
+ "text": "Yo pana bhikkhu jānaṁ ūnavīsativassaṁ puggalaṁ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṁ tasmiṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 65"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc66",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc66",
+ "name": "Theyyasattha",
+ "text": "Yo pana bhikkhu jānaṁ theyyasatthena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya antamaso gāmantarampi, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 66"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc67",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc67",
+ "name": "Saṁvidhāna",
+ "text": "Yo pana bhikkhu mātugāmena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya antamaso gāmantarampi, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 67"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc68",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc68",
+ "name": "Ariṭṭha",
+ "text": "Yo pana bhikkhu evaṁ vadeyya “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 68"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc69",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc69",
+ "name": "Ukkhittasambhoga",
+ "text": "Yo pana bhikkhu jānaṁ tathāvādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjeyya vā, saṁvaseyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 69"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc70",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc70",
+ "name": "Kaṇṭaka",
+ "text": "Samaṇuddesopi ce evaṁ vadeyya “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo “māvuso, samaṇuddesa evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṁ dirattatirattaṁ sahaseyyaṁ, sāpi te natthi, cara pire, vinassā”ti. Yo pana bhikkhu jānaṁ tathānāsitaṁ samaṇuddesaṁ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 70"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc71",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc71",
+ "name": "Sahadhammika",
+ "text": "Yo pana bhikkhu bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadeyya “na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi, yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī”ti, pācittiyaṁ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ, ayaṁ tattha sāmīci.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 71"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc72",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc72",
+ "name": "Vilekhana",
+ "text": "Yo pana bhikkhu pātimokkhe uddissamāne evaṁ vadeyya “kiṁ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṁvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 72"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc73",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc73",
+ "name": "Mohana",
+ "text": "Yo pana bhikkhu anvaddhamāsaṁ pātimokkhe uddissamāne evaṁ vadeyya “idāneva kho ahaṁ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī”ti. Tañce bhikkhuṁ aññe bhikkhū jāneyyuṁ nisinnapubbaṁ iminā bhikkhunā dvattikkhattuṁ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṁ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṁ, yaṁ tvaṁ pātimokkhe uddissamānena sādhukaṁ aṭṭhiṁ katvā manasi karosī”ti, idaṁ tasmiṁ mohanake pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 73"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc74",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc74",
+ "name": "Pahāra",
+ "text": "Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 74"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc75",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc75",
+ "name": "Talasattika",
+ "text": "Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṁ uggireyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 75"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc76",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc76",
+ "name": "Amūlaka",
+ "text": "Yo pana bhikkhu bhikkhuṁ amūlakena saṅghādisesena anuddhaṁseyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 76"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc77",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc77",
+ "name": "Sañcicca",
+ "text": "Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṁ upadaheyya “itissa muhuttampi aphāsu bhavissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 77"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc78",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc78",
+ "name": "Upassuti",
+ "text": "Yo pana bhikkhu bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭheyya “yaṁ ime bhaṇissanti, taṁ sossāmī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 78"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc79",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc79",
+ "name": "Kammappaṭibāhana",
+ "text": "Yo pana bhikkhu dhammikānaṁ kammānaṁ chandaṁ datvā pacchā khīyanadhammaṁ āpajjeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 79"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc80",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc80",
+ "name": "Chandaṁadatvāgamana",
+ "text": "Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṁ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 80"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc81",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc81",
+ "name": "Dubbala",
+ "text": "Yo pana bhikkhu samaggena saṅghena cīvaraṁ datvā pacchā khīyanadhammaṁ āpajjeyya “yathāsanthutaṁ bhikkhū saṅghikaṁ lābhaṁ pariṇāmentī”ti, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 81"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc82",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc82",
+ "name": "Pariṇāmana",
+ "text": "Yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 82"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc83",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc83",
+ "name": "Antepura",
+ "text": "Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṁvidito indakhīlaṁ atikkāmeyya, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 83"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc84",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc84",
+ "name": "Ratana",
+ "text": "Yo pana bhikkhu ratanaṁ vā ratanasammataṁ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṁ. Ratanaṁ vā pana bhikkhunā ratanasammataṁ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṁ “yassa bhavissati, so harissatī”ti, ayaṁ tattha sāmīci.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 84"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc85",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc85",
+ "name": "Vikālagāmappavesana",
+ "text": "Yo pana bhikkhu santaṁ bhikkhuṁ anāpucchāvikāle gāmaṁ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 85"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc86",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc86",
+ "name": "Sūcighara",
+ "text": "Yo pana bhikkhu aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya, bhedanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 86"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc87",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc87",
+ "name": "Mañcapīṭha",
+ "text": "Navaṁ pana bhikkhunā mañcaṁ vā pīṭhaṁ vā kārayamānena aṭṭhaṅgulapādakaṁ kāretabbaṁ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṁ atikkāmayato chedanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 87"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc88",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc88",
+ "name": "Tūlonaddha",
+ "text": "Yo pana bhikkhu mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 88"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc89",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc89",
+ "name": "Nisīdana",
+ "text": "Nisīdanaṁ pana bhikkhunā kārayamānena pamāṇikaṁ kāretabbaṁ, tatridaṁ pamāṇaṁ, dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṁ diyaḍḍhaṁ, dasā vidatthi. Taṁ atikkāmayato chedanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 89"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc90",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc90",
+ "name": "Kaṇḍuppaṭicchādi",
+ "text": "Kaṇḍuppaṭicchādiṁ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmayato chedanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 90"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc91",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc91",
+ "name": "Vassikasāṭika",
+ "text": "Vassikasāṭikaṁ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṁ aḍḍhateyyā. Taṁ atikkāmayato chedanakaṁ pācittiyaṁ.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 91"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pc92",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Pacittiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pc92",
+ "name": "Nanda",
+ "text": "Yo pana bhikkhu sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya, atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatridaṁ sugatassa sugatacīvarappamāṇaṁ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṁ cha vidatthiyo, idaṁ sugatassa sugatacīvarapamāṇanti.",
+ "label": "Paḷī Text Bhikkhu Pācittiya 92"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pd1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Patidesaniya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pd1",
+ "name": "Paṭhamapāṭidesanīya",
+ "text": "Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṁ paviṭṭhāya hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā “gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.",
+ "label": "Paḷī Text Bhikkhu Pāṭidesanīya 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pd2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Patidesaniya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pd2",
+ "name": "Dutiyapāṭidesanīya",
+ "text": "Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti “idha sūpaṁ detha, idha odanaṁ dethā”ti. Tehi bhikkhūhi sā bhikkhunī apasādetabbā “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti. Ekassapi ce bhikkhuno na paṭibhāseyya taṁ bhikkhuniṁ apasādetuṁ “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti, paṭidesetabbaṁ tehi bhikkhūhi “gārayhaṁ, āvuso, dhammaṁ āpajjimhā asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemā”ti.",
+ "label": "Paḷī Text Bhikkhu Pāṭidesanīya 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pd3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Patidesaniya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pd3",
+ "name": "Tatiyapāṭidesanīya",
+ "text": "Yāni kho pana tāni sekkhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṁ vā, bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā “gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.",
+ "label": "Paḷī Text Bhikkhu Pāṭidesanīya 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-pd4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Patidesaniya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-pd4",
+ "name": "Catutthapāṭidesanīya",
+ "text": "Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā, bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā “gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.",
+ "label": "Paḷī Text Bhikkhu Pāṭidesanīya 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk1",
+ "name": "Parimaṇḍala",
+ "text": "Parimaṇḍalaṁ nivāsessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk2",
+ "name": "Dutiyaparimaṇḍala",
+ "text": "Parimaṇḍalaṁ pārupissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk3",
+ "name": "Suppaṭicchanna",
+ "text": "Suppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk4",
+ "name": "Dutiyasuppaṭicchanna",
+ "text": "Suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk5",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk5",
+ "name": "Susaṁvuta",
+ "text": "Susaṁvuto antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 5"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk6",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk6",
+ "name": "Dutiyasusaṁvuta",
+ "text": "Susaṁvuto antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 6"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk7",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk7",
+ "name": "Okkhittacakkhu",
+ "text": "Okkhittacakkhu antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 7"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk8",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk8",
+ "name": "Dutiya-okkhittacakkhu",
+ "text": "Okkhittacakkhu antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 8"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk9",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk9",
+ "name": "Ukkhittaka",
+ "text": "Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 9"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk10",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk10",
+ "name": "Dutiya-ukkhittaka",
+ "text": "Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 10"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk11",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk11",
+ "name": "Ujjagghika",
+ "text": "Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 11"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk12",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk12",
+ "name": "Dutiya-ujjagghika",
+ "text": "Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 12"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk13",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk13",
+ "name": "Uccasadda",
+ "text": "Appasaddo antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 13"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk14",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk14",
+ "name": "Dutiya-uccasadda",
+ "text": "Appasaddo antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 14"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk15",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk15",
+ "name": "Kāyappacālaka",
+ "text": "Na kāyappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 15"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk16",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk16",
+ "name": "Dutiyakāyappacālaka",
+ "text": "Na kāyappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 16"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk17",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk17",
+ "name": "Bāhuppacālaka",
+ "text": "Na bāhuppacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 17"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk18",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk18",
+ "name": "Dutiyabāhuppacālaka",
+ "text": "Na bāhuppacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 18"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk19",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk19",
+ "name": "Sīsappacālaka",
+ "text": "Na sīsappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 19"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk20",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk20",
+ "name": "Dutiyasīsappacālaka",
+ "text": "Na sīsappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 20"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk21",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk21",
+ "name": "Khambhakata",
+ "text": "Na khambhakato antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 21"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk22",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk22",
+ "name": "Dutiyakhambhakata",
+ "text": "Na khambhakato antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 22"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk23",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk23",
+ "name": "Oguṇṭhita",
+ "text": "Na oguṇṭhito antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 23"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk24",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk24",
+ "name": "Dutiya-oguṇṭhita",
+ "text": "Na oguṇṭhito antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 24"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk25",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk25",
+ "name": "Ukkuṭika",
+ "text": "Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 25"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk26",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk26",
+ "name": "Pallatthika-ukkuṭika",
+ "text": "Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 26"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk27",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk27",
+ "name": "Sakkaccapaṭiggahaṇa",
+ "text": "Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 27"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk28",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk28",
+ "name": "Pattasaññīpaṭiggahaṇa",
+ "text": "Pattasaññī piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 28"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk29",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk29",
+ "name": "Samasūpakapaṭiggahaṇa",
+ "text": "Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 29"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk30",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk30",
+ "name": "Samatittika",
+ "text": "Samatittikaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 30"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk31",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk31",
+ "name": "Sakkaccabhuñjana",
+ "text": "Sakkaccaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 31"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk32",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk32",
+ "name": "Pattasaññībhuñjana",
+ "text": "Pattasaññī piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 32"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk33",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk33",
+ "name": "Sapadāna",
+ "text": "Sapadānaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 33"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk34",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk34",
+ "name": "Samasūpaka",
+ "text": "Samasūpakaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 34"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk35",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk35",
+ "name": "Nathūpakata",
+ "text": "Na thūpakato omadditvā piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 35"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk36",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk36",
+ "name": "Odanappaṭicchādana",
+ "text": "Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyokamyataṁ upādāyāti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 36"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk37",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk37",
+ "name": "Sūpodanaviññatti",
+ "text": "Na sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 37"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk38",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk38",
+ "name": "Ujjhānasaññī",
+ "text": "Na ujjhānasaññī paresaṁ pattaṁ olokessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 38"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk39",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk39",
+ "name": "Kabaḷa",
+ "text": "Nātimahantaṁ kabaḷaṁ karissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 39"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk40",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk40",
+ "name": "Ālopa",
+ "text": "Parimaṇḍalaṁ ālopaṁ karissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 40"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk41",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk41",
+ "name": "Anāhaṭa",
+ "text": "Na anāhaṭe kabaḷe mukhadvāraṁ vivarissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 41"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk42",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk42",
+ "name": "Bhuñjamāna",
+ "text": "Na bhuñjamāno sabbahatthaṁ mukhe pakkhipissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 42"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk43",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk43",
+ "name": "Sakabaḷa",
+ "text": "Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 43"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk44",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk44",
+ "name": "Piṇḍukkhepaka",
+ "text": "Na piṇḍukkhepakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 44"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk45",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk45",
+ "name": "Kabaḷāvacchedaka",
+ "text": "Na kabaḷāvacchedakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 45"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk46",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk46",
+ "name": "Avagaṇḍakāraka",
+ "text": "Na avagaṇḍakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 46"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk47",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk47",
+ "name": "Hatthaniddhunaka",
+ "text": "Na hatthaniddhunakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 47"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk48",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk48",
+ "name": "Sitthāvakāraka",
+ "text": "Na sitthāvakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 48"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk49",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk49",
+ "name": "Jivhānicchāraka",
+ "text": "Na jivhānicchārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 49"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk50",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk50",
+ "name": "Capucapukāraka",
+ "text": "Na capucapukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 50"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk51",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk51",
+ "name": "Surusurukāraka",
+ "text": "Na surusurukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 51"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk52",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk52",
+ "name": "Hatthanillehaka",
+ "text": "Na hatthanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 52"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk53",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk53",
+ "name": "Pattanillehaka",
+ "text": "Na pattanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 53"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk54",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk54",
+ "name": "Oṭṭhanillehaka",
+ "text": "Na oṭṭhanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 54"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk55",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk55",
+ "name": "Sāmisa",
+ "text": "Na sāmisena hatthena pānīyathālakaṁ paṭiggahessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 55"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk56",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk56",
+ "name": "Sasitthaka",
+ "text": "Na sasitthakaṁ pattadhovanaṁ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 56"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk57",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk57",
+ "name": "Chattapāṇi",
+ "text": "Na chattapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 57"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk58",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk58",
+ "name": "Daṇḍapāṇi",
+ "text": "Na daṇḍapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 58"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk59",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk59",
+ "name": "Satthapāṇi",
+ "text": "Na satthapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 59"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk60",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk60",
+ "name": "Āvudhapāṇi",
+ "text": "Na āvudhapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 60"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk61",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk61",
+ "name": "Pāduka",
+ "text": "Na pādukāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 61"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk62",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk62",
+ "name": "Upāhana",
+ "text": "Na upāhanāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 62"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk63",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk63",
+ "name": "Yāna",
+ "text": "Na yānagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 63"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk64",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk64",
+ "name": "Sayana",
+ "text": "Na sayanagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 64"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk65",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk65",
+ "name": "Pallatthika",
+ "text": "Na pallatthikāya nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 65"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk66",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk66",
+ "name": "Veṭhita",
+ "text": "Na veṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 66"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk67",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk67",
+ "name": "Oguṇṭhita",
+ "text": "Na oguṇṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 67"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk68",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk68",
+ "name": "Chamā",
+ "text": "Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 68"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk69",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk69",
+ "name": "Nīcāsana",
+ "text": "Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 69"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk70",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk70",
+ "name": "Ṭhita",
+ "text": "Na ṭhito nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 70"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk71",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk71",
+ "name": "Pacchatogamana",
+ "text": "Na pacchato gacchanto purato gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 71"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk72",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk72",
+ "name": "Uppathenagamana",
+ "text": "Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 72"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk73",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk73",
+ "name": "Ṭhitouccāra",
+ "text": "Na ṭhito agilāno uccāraṁ vā passāvaṁ vā karissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 73"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk74",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk74",
+ "name": "Hariteuccāra",
+ "text": "Na harite agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 74"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-sk75",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Sekhiya", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-sk75",
+ "name": "Udakeuccāra",
+ "text": "Na udake agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.",
+ "label": "Paḷī Text Bhikkhu Sekhiya 75"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as1",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as1",
+ "name": "Sammukhāvinaya",
+ "text": "Sammukhāvinayo dātabbo.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 1"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as2",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as2",
+ "name": "Sativinaya",
+ "text": "Sativinayo dātabbo.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 2"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as3",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as3",
+ "name": "Amūḷhavinaya",
+ "text": "Amūḷhavinayo dātabbo.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 3"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as4",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as4",
+ "name": "Paṭiññātakāraṇa",
+ "text": "Paṭiññāya kāretabbaṁ.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 4"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as5",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as5",
+ "name": "Yebhuyyasikā",
+ "text": "Yebhuyyasikā.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 5"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as6",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as6",
+ "name": "Tassapāpiyasikā",
+ "text": "Tassapāpiyasikā.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 6"
+}, {
+ "@id": "pli-tv-pm:VinayaSegment_pli-tv-bu-pm-as7",
+ "@type": "http://samanasara.org/ontology/VinayaStudiesOntology#VinayaSegment",
+ "about": ["http://samanasara.org/VinayaCore#VinayaOffenseClass_Adhikaranasamatha", "http://samanasara.org/VinayaCore#VinayaTradition_PaliTextTheravada"],
+ "inLanguage": "pli",
+ "isPartOf": "http://samanasara.org/VinayaCore#VinayaText_Mahāsaṅgīti_Tipiṭaka_Buddhavasse_2500",
+ "mainEntity": "pli-tv-pm:PatimokkhaRule_pli-tv-bu-pm-as7",
+ "name": "Tiṇavatthāraka",
+ "text": "Tiṇavatthārakoti.",
+ "label": "Paḷī Text Bhikkhu Adhikaraṇasamatha 7"
+}]
