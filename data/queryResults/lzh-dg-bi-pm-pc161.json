@@ -1,0 +1,28 @@
+[{
+ "base": {
+  "baseRuleHeader": {
+   "sourceText": "Taishō vol. 22 no. 1431 (cf. No. 1428)",
+   "label": "Classical Chinese Dharmaguptaka Bhikkhunī Pācittiya 161"
+  },
+  "baseRule": {
+   "id": "lzh-dg-bi-pm-pc161",
+   "inLanguage": "Classical Chinese",
+   "tradition": "Dharmaguptaka",
+   "vinayaOffenseClass": "Pācittiya",
+   "ruleNumber": "161",
+   "sourceText": "Taishō vol. 22 no. 1431 (cf. No. 1428)",
+   "text": "「若比丘尼，向暮至白衣家，先不被喚，波逸提。",
+   "label": "Classical Chinese Dharmaguptaka Bhikkhunī Pācittiya 161"
+  }
+ },
+ "fullParallels": [{
+  "id": "lzh-mi-bi-pm-pc170",
+  "inLanguage": "Classical Chinese",
+  "tradition": "Mahīśāsaka",
+  "vinayaOffenseClass": "Pācittiya",
+  "ruleNumber": "170",
+  "sourceText": "Taishō vol. 23 no. 1423 [cf. no. 1421]",
+  "text": "若比丘尼白衣不喚。非時入其家。波逸提(一百七十)。",
+  "label": "Classical Chinese Mahīśāsaka Bhikkhunī Pācittiya 170"
+ }]
+}]

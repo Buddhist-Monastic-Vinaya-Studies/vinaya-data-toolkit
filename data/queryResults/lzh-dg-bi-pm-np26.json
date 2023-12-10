@@ -1,0 +1,37 @@
+[{
+ "base": {
+  "baseRuleHeader": {
+   "sourceText": "Taishō vol. 22 no. 1431 (cf. No. 1428)",
+   "label": "Classical Chinese Dharmaguptaka Bhikkhunī Nissaggiya Pācittiya 26"
+  },
+  "baseRule": {
+   "id": "lzh-dg-bi-pm-np26",
+   "inLanguage": "Classical Chinese",
+   "tradition": "Dharmaguptaka",
+   "vinayaOffenseClass": "Nissaggiya Pācittiya",
+   "ruleNumber": "26",
+   "sourceText": "Taishō vol. 22 no. 1431 (cf. No. 1428)",
+   "text": "「若比丘尼，許他比丘尼病衣，後不與者，尼薩耆波逸提。",
+   "label": "Classical Chinese Dharmaguptaka Bhikkhunī Nissaggiya Pācittiya 26"
+  }
+ },
+ "fullParallels": [{
+  "id": "lzh-mi-bi-pm-np22",
+  "inLanguage": "Classical Chinese",
+  "tradition": "Mahīśāsaka",
+  "vinayaOffenseClass": "Nissaggiya Pācittiya",
+  "ruleNumber": "22",
+  "sourceText": "Taishō vol. 23 no. 1423 [cf. no. 1421]",
+  "text": "若比丘尼。諸比丘尼語。汝取遮月水衣。自言不用。臨時先取。尼薩耆波逸提。",
+  "label": "Classical Chinese Mahīśāsaka Bhikkhunī Nissaggiya Pācittiya 22"
+ }, {
+  "id": "lzh-mg-bi-pm-np16",
+  "inLanguage": "Classical Chinese",
+  "tradition": "Mahāsaṅghika",
+  "vinayaOffenseClass": "Nissaggiya Pācittiya",
+  "ruleNumber": "16",
+  "sourceText": "Taishō vol. 22 no. 1427 [cf. no. 1425]",
+  "text": "若比丘尼。於住止處棄故僧伽梨唱言。有欲取者取。後還奪者。尼薩耆波夜提。",
+  "label": "Classical Chinese Mahāsaṅghika Bhikkhunī Nissaggiya Pācittiya 16"
+ }]
+}]
