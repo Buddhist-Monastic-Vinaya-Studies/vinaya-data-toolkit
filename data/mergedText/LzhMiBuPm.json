@@ -1517,6 +1517,50 @@
  "text": "若比丘。知檀越欲與僧物。迴與餘人。波逸提。",
  "label":  "Classical Chinese Mahīśāsaka Bhikkhu Pācittiya 91"
 }, {
+ "id": "lzh-mi-bu-pm-pd1",
+ "about": {
+  "VinayaTradition": "Mahīśāsaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no.1422a (cf. no. 1421)",
+ "text": "諸大德。是四波羅提提舍尼法。半月半月戒經中說。若比丘。無病在街巷中。從非親里比丘尼自手受食。是比丘應向諸比丘悔過。我墮可呵法。今向諸大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Mahīśāsaka Bhikkhu Pāṭidesanīya 1"
+ }, {
+ "id": "lzh-mi-bu-pm-pd2",
+ "about": {
+  "VinayaTradition": "Mahīśāsaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no.1422a (cf. no. 1421)",
+ "text": "若比丘。白衣家請食。有比丘尼。教益食人與是比丘飯與是比丘羹。諸比丘應語是比丘尼。姊妹小却待。諸比丘食竟若眾中乃至無一人語者。是諸比丘應向諸比丘悔過。我墮可呵法。今向諸大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Mahīśāsaka Bhikkhu Pāṭidesanīya 2"
+}, {
+ "id": "lzh-mi-bu-pm-pd3",
+ "about": {
+  "VinayaTradition": "Mahīśāsaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no.1422a (cf. no. 1421)",
+ "text": "有諸學家僧作學家羯磨。若比丘無病先不受請。於是學家自手受食。是比丘應向諸比丘悔過。我墮可呵法。今向諸大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Mahīśāsaka Bhikkhu Pāṭidesanīya 3"
+}, {
+ "id": "lzh-mi-bu-pm-pd4",
+ "about": {
+  "VinayaTradition": "Mahīśāsaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no.1422a (cf. no. 1421)",
+ "text": "若比丘。住阿鍊若處。有疑恐怖先不伺視。在僧坊內自手受食不出外受。是比丘應向諸比丘悔過。我墮可呵法。今向諸大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Mahīśāsaka Bhikkhu Pāṭidesanīya 4"
+}, {
  "id": "lzh-mi-bu-pm-sk1",
  "about": {
   "VinayaTradition": "Mahīśāsaka",

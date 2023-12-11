@@ -1506,6 +1506,50 @@
  "text": "若比丘與佛等量作衣。波夜提。",
  "label":  "Classical Chinese Sarvāstivāda Bhikkhu Pācittiya 90"
 }, {
+ "id": "lzh-sarv-bu-pm-2-pd1",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘不病入聚落。從非親里比丘尼邊自手取食者。波羅提提舍尼。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Pāṭidesanīya 1"
+}, {
+ "id": "lzh-sarv-bu-pm-2-pd2",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘受比丘尼教食食者。波羅提提舍尼。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Pāṭidesanīya 2"
+}, {
+ "id": "lzh-sarv-bu-pm-2-pd3",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘有餘學家。先不受他請。後來自手取食。波羅提提舍尼。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Pāṭidesanīya 3"
+}, {
+ "id": "lzh-sarv-bu-pm-2-pd4",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘僧未與羯磨。是人僧房外自手取食。波羅提提舍尼。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Pāṭidesanīya 4"
+}, {
  "id": "lzh-sarv-bu-pm-2-sk1",
  "about": {
   "VinayaTradition": "Sarvāstivāda",

@@ -1506,6 +1506,50 @@
  "text": "若復苾芻同佛衣量作衣。或復過者。波逸底迦。是中佛衣量者。長佛十張手。廣六張手。此是佛衣量。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Pācittiya 90"
 }, {
+ "id": "lzh-mu-bu-pm-pd1",
+ "about": {
+  "VinayaTradition": "Mūlasarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no. 1454",
+ "text": "若復苾芻於村路中。從非親苾芻尼。自手受食食。是苾芻應還村外住處。詣諸苾芻所。我別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Pāṭidesanīya 1"
+ }, {
+ "id": "lzh-mu-bu-pm-pd2",
+ "about": {
+  "VinayaTradition": "Mūlasarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no. 1454",
+ "text": "若復眾多苾芻於白衣家食。有苾芻尼指授此苾芻。應可多與美好飲食。諸苾芻應語是苾芻尼言。姊妹。且止少時。待諸苾芻食竟。若無一人作是語者。是諸苾芻應還村外住處。詣諸苾芻所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Pāṭidesanīya 2"
+}, {
+ "id": "lzh-mu-bu-pm-pd3",
+ "about": {
+  "VinayaTradition": "Mūlasarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no. 1454",
+ "text": "若復苾芻知是學家僧與作學家羯磨。苾芻先不受請。便詣彼家自手受食食。是苾芻應還村外住處。詣諸苾芻所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Pāṭidesanīya 3"
+}, {
+ "id": "lzh-mu-bu-pm-pd4",
+ "about": {
+  "VinayaTradition": "Mūlasarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no. 1454",
+ "text": "若復苾芻在阿蘭若恐怖處住。先無觀察險難之人。於住處外受食食者。是苾芻應還住處。詣諸苾芻所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Pāṭidesanīya 4"
+}, {
  "id": "lzh-mu-bu-pm-sk1",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
@@ -1517,7 +1561,7 @@
  "text": "齊整著裙。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 1"
 }, {
- "id": "lzh-mu-bu-pm-sk2–7",
+ "id": "lzh-mu-bu-pm-sk2",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
@@ -1525,8 +1569,8 @@
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 2–7"
+ "text": "不太高。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 2"
 }, {
  "id": "lzh-mu-bu-pm-sk3",
  "about": {
@@ -1594,7 +1638,7 @@
  "text": "齊整披三衣。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 8"
 }, {
- "id": "lzh-mu-bu-pm-sk9–14",
+ "id": "lzh-mu-bu-pm-sk9",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
@@ -1602,8 +1646,8 @@
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 9–14"
+ "text": "不太高。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 9"
 }, {
  "id": "lzh-mu-bu-pm-sk10",
  "about": {
@@ -1668,7 +1712,7 @@
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
+ "text": "不覆頭。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 15–19"
 }, {
  "id": "lzh-mu-bu-pm-sk16",
@@ -1715,7 +1759,7 @@
  "text": "不拊肩。入白衣舍。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 19"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 20–24",
+ "id": "lzh-mu-bu-pm-sk20",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
@@ -1723,8 +1767,8 @@
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 20–24"
+ "text": "不蹲行。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 20"
 }, {
  "id": "lzh-mu-bu-pm-sk21",
  "about": {
@@ -1770,16 +1814,16 @@
  "text": "不努身行。入白衣舍。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 24"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 25–29",
+ "id": "lzh-mu-bu-pm-sk25",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 25–29"
+ "text": "不搖身。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 25"
 }, {
  "id": "lzh-mu-bu-pm-sk26",
  "about": {
@@ -1858,17 +1902,6 @@
  "text": "在白衣舍。不放身坐。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 32"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 33–38",
- "about": {
-  "VinayaTradition": "Mūlasarvāstivāda",
-  "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
- },
- "inLanguage": "Classical Chinese",
- "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "在白衣舍。",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 33–38"
-}, {
  "id": "lzh-mu-bu-pm-sk33",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
@@ -1946,16 +1979,16 @@
  "text": "恭敬受食。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 39"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 40–43",
+ "id": "lzh-mu-bu-pm-sk40",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 40–43"
+ "text": "不得滿鉢受飯。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 40"
 }, {
  "id": "lzh-mu-bu-pm-sk41",
  "about": {
@@ -2023,16 +2056,16 @@
  "text": "恭敬而食。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 46"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 47–49",
+ "id": "lzh-mu-bu-pm-sk47",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 47–49"
+ "text": "不極小摶。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 47"
 }, {
  "id": "lzh-mu-bu-pm-sk48",
  "about": {
@@ -2078,16 +2111,16 @@
  "text": "不含食語。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 51"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 52–53",
+ "id": "lzh-mu-bu-pm-sk52",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 52–53"
+ "text": "不得以飯覆羹菜。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 52"
 }, {
  "id": "lzh-mu-bu-pm-sk53",
  "about": {
@@ -2100,16 +2133,16 @@
  "text": "不將羹菜覆飯。更望多得。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 53"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 54–63",
+ "id": "lzh-mu-bu-pm-sk54",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 54–63"
+ "text": "不彈舌食。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 54"
 }, {
  "id": "lzh-mu-bu-pm-sk55",
  "about": {
@@ -2210,16 +2243,16 @@
  "text": "不作窣堵波形食。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 63"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 64–68",
+ "id": "lzh-mu-bu-pm-sk64",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 64–68"
+ "text": "不舐手。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 64"
 }, {
  "id": "lzh-mu-bu-pm-sk65",
  "about": {
@@ -2331,16 +2364,16 @@
  "text": "不立洗鉢。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 74"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 75–76",
+ "id": "lzh-mu-bu-pm-sk75",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 75–76"
+ "text": "不於危險岸處置鉢。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 75"
 }, {
  "id": "lzh-mu-bu-pm-sk76",
  "about": {
@@ -2408,16 +2441,16 @@
  "text": "人在道己在非道不為說法。除病。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 81"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 82–86",
+ "id": "lzh-mu-bu-pm-sk82",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 82–86"
+ "text": "不為覆頭者。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 82"
 }, {
  "id": "lzh-mu-bu-pm-sk83",
  "about": {
@@ -2463,16 +2496,16 @@
  "text": "不為拊肩者說法。除病。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 86"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 87–90",
+ "id": "lzh-mu-bu-pm-sk87",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 87–90"
+ "text": "不為乘象者。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 87"
 }, {
  "id": "lzh-mu-bu-pm-sk88",
  "about": {
@@ -2507,16 +2540,16 @@
  "text": "不為乘車者說法。除病。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 90"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 91–92",
+ "id": "lzh-mu-bu-pm-sk91",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 91–92"
+ "text": "不為著屐靴鞋及。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 91"
 }, {
  "id": "lzh-mu-bu-pm-sk92",
  "about": {
@@ -2529,16 +2562,16 @@
  "text": "履屨者說法。除病。應當學。",
  "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 92"
 }, {
- "id": "lzh-mu-bu-pm-undefinedSekhiya 93–97",
+ "id": "lzh-mu-bu-pm-sk93",
  "about": {
   "VinayaTradition": "Mūlasarvāstivāda",
   "MonasticOrder": "Bhikkhu",
-  "VinayaOffenseClass": ""
+  "VinayaOffenseClass": "Sekhiya"
  },
  "inLanguage": "Classical Chinese",
  "isPartOf": "Taishō vol. 24 no. 1454",
- "text": "",
- "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 93–97"
+ "text": "不為戴帽。",
+ "label":  "Classical Chinese Mūlasarvāstivāda Bhikkhu Sekhiya 93"
 }, {
  "id": "lzh-mu-bu-pm-sk94",
  "about": {

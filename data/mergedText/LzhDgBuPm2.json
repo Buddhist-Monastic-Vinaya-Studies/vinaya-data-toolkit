@@ -1506,6 +1506,50 @@
  "text": "若比丘佛衣等量作衣。是中量者。長佛十磔手。廣六磔手。是佛衣量。若過成者波逸提。九十",
  "label":  "Classical Chinese Dharmaguptaka Bhikkhu Pācittiya 90"
 }, {
+ "id": "lzh-dg-bu-pm-2-pd1",
+ "about": {
+  "VinayaTradition": "Dharmaguptaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1430 (cf. no. 1429, no. 1428)",
+ "text": "若比丘入村中。無病從非親里比丘尼邊自手受食食。是比丘應向餘比丘悔過言。大德。我犯可呵法所不應為。我今向大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Dharmaguptaka Bhikkhu Pāṭidesanīya 1"
+ }, {
+ "id": "lzh-dg-bu-pm-2-pd2",
+ "about": {
+  "VinayaTradition": "Dharmaguptaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1430 (cf. no. 1429, no. 1428)",
+ "text": "若比丘在白衣家食。是中有比丘尼指示。與某甲羹與某甲飯。諸比丘應語彼比丘尼如是言。大姊。且止須諸比丘食竟。若無一比丘語彼比丘尼如是言。大姊。且止須諸比丘食竟。是比丘應向餘比丘悔過言。大德。我犯可呵法所不應為。我今向大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Dharmaguptaka Bhikkhu Pāṭidesanīya 2"
+}, {
+ "id": "lzh-dg-bu-pm-2-pd3",
+ "about": {
+  "VinayaTradition": "Dharmaguptaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1430 (cf. no. 1429, no. 1428)",
+ "text": "有諸學家。僧作學家羯磨。若比丘知是學家。先不受請。無病自手受食食。是比丘應向餘比丘悔過言。大德。我犯可呵法所不應為。我今向大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Dharmaguptaka Bhikkhu Pāṭidesanīya 3"
+}, {
+ "id": "lzh-dg-bu-pm-2-pd4",
+ "about": {
+  "VinayaTradition": "Dharmaguptaka",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1430 (cf. no. 1429, no. 1428)",
+ "text": "逈遠有疑恐怖處。若比丘在如是若阿練若阿練若處住。先不語檀越。僧伽藍外不受食。在僧伽藍內無病自手受食食。是比丘應向餘比丘悔過言。大德。我犯可呵法所不應為。我今向大德悔過。是名悔過法。",
+ "label":  "Classical Chinese Dharmaguptaka Bhikkhu Pāṭidesanīya 4"
+}, {
  "id": "lzh-dg-bu-pm-2-sk1",
  "about": {
   "VinayaTradition": "Dharmaguptaka",

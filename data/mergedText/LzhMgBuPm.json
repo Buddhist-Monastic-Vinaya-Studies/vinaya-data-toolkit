@@ -1528,6 +1528,50 @@
  "text": "若比丘。僧半月說波羅提木叉經時作是言。長老。我今始知是法入修多羅半月波羅提木叉中說。諸比丘知彼比丘本若二若三。說波羅提木叉經中坐。況復多。彼比丘不以不知故無罪。隨所犯罪一一如法治。應呵責言。長老。汝失善利。半月說波羅提木叉經時。汝不尊重。不一心念。不攝耳聽法。呵已。波夜提。九十二事竟",
  "label":  "Classical Chinese Mahāsaṅghika Bhikkhu Pācittiya 92"
 }, {
+ "id": "lzh-mg-bu-pm-pd1",
+ "about": {
+  "VinayaTradition": "Mahāsaṅghika",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1426 (cf. no. 1425)",
+ "text": "若比丘。阿練若處住。先不語不病。外不受於內受。若噉若食應向餘比丘悔過言。長老。我墮可呵法。此法悔過。",
+ "label":  "Classical Chinese Mahāsaṅghika Bhikkhu Pāṭidesanīya 1"
+ }, {
+ "id": "lzh-mg-bu-pm-pd2",
+ "about": {
+  "VinayaTradition": "Mahāsaṅghika",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1426 (cf. no. 1425)",
+ "text": "若比丘。不病在白衣家內。從非親里比丘尼邊受食。若噉若食應向餘比丘悔過言。長老。我墮可呵法。此法悔過。",
+ "label":  "Classical Chinese Mahāsaṅghika Bhikkhu Pāṭidesanīya 2"
+}, {
+ "id": "lzh-mg-bu-pm-pd3",
+ "about": {
+  "VinayaTradition": "Mahāsaṅghika",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1426 (cf. no. 1425)",
+ "text": "若比丘。受白衣家請食。比丘尼在前立。指示言。與是比丘飯。與是比丘羹。若魚若肉。諸比丘應語是比丘尼言。姊妹小住。待諸比丘食竟。若無一比丘呵者。是諸比丘應向餘比丘悔過言。長老。我墮可呵法。此法悔過。",
+ "label":  "Classical Chinese Mahāsaṅghika Bhikkhu Pāṭidesanīya 3"
+}, {
+ "id": "lzh-mg-bu-pm-pd4",
+ "about": {
+  "VinayaTradition": "Mahāsaṅghika",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Pāṭidesanīya"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1426 (cf. no. 1425)",
+ "text": "有學家僧作學家羯磨。比丘先不請而往自手受食。若噉若食。是比丘應向餘比丘悔過言。長老。我墮可呵法。此法悔過。",
+ "label":  "Classical Chinese Mahāsaṅghika Bhikkhu Pāṭidesanīya 4"
+}, {
  "id": "lzh-mg-bu-pm-sk1",
  "about": {
   "VinayaTradition": "Mahāsaṅghika",
