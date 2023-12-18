@@ -185,6 +185,28 @@
  "isPartOf": "Taishō vol. 22 no. 1422b",
  "text": "有一比丘惡性難共語。入戒誦中入佛經中。語諸比丘如法如律如戒經中事諫是比丘。是比丘悷不受說。語諸比丘言。大德。汝莫語我好惡。我亦不語汝好惡。汝為諸比丘說。我亦為諸比丘說。如法如律令如來眾得增長。如是再三諫時捨者善。不捨者僧伽婆尸沙。",
  "label":  "Classical Chinese Sarvāstivāda Bhikkhu Saṅghādisesa 13"
+},  {
+ "id": "lzh-sarv-bu-pm-2-ay1",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Aniyata"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘與一女人。屏障內行淫處坐。隨 可信優婆夷所見是比丘隨三法中一一法 說。若僧伽婆尸沙。若波羅夷。若波夜提。隨 可信優婆夷所說如法持。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Aniyata 1"
+}, {
+ "id": "lzh-sarv-bu-pm-2-ay2",
+ "about": {
+  "VinayaTradition": "Sarvāstivāda",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Aniyata"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 22 no. 1422b",
+ "text": "若比丘與一女人。不屏覆處坐不可婬處 坐。隨可信優婆夷所見。是比丘隨二法中 一一法說。若僧伽婆尸沙。若波夜提。隨可 信優婆夷所說如法持。",
+ "label":  "Classical Chinese Sarvāstivāda Bhikkhu Aniyata 2"
 }, {
  "id": "lzh-sarv-bu-pm-2-np1",
  "about": {

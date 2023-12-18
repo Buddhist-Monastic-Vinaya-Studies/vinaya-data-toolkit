@@ -351,12 +351,9 @@ function writeResultsToQueryResultsFile(ruleId, resultsData) {
   let fileContent = "export const result = " + JSON.stringify(resultsData) + ";";
 
   fs.writeFileSync(fileName, fileContent, function (err) {
-    if (err) {
-      throw err; 
-    } else {
-    console.log('Saved :' + fileName);
-    }
+    if (err) throw err; 
   });
+  console.log("wrote: " + fileName);
 };
 
 export default createResultsToDisplayForRule;

@@ -186,6 +186,28 @@
  "text": "若比丘惡口於戒律中學如來法中如法如毘尼。自身不受諫。語諸比丘言。長老。莫向我說若善不善。我亦不向諸長老說若善不善。長老。止莫諫我。諸比丘諫此比丘言。大德。於佛戒法中學如法如律。自身當受諫。莫不受諫。大德。如法如律諫諸比丘。諸比丘亦如法如律諫大德。何以故。如是具足如來應供等正覺。弟子眾得增長。種種相諫展轉相教。各各悔過。各各共語。彼比丘如是諫時。捨者善。若不捨。諸比丘應三諫。捨是事故。乃至三諫。捨者善。若不捨。僧伽婆尸沙。",
  "label":  "Classical Chinese Kāśyapīya Bhikkhu Saṅghādisesa 13"
 }, {
+ "id": "lzh-ka-bu-pm-ay1",
+ "about": {
+  "VinayaTradition": "Kāśyapīya",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Aniyata"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no.1460",
+ "text": "若比丘共一女人獨在覆障處無人見處。坐 說欲事。有信優婆夷三法中一一法說。若 波羅夷。若僧伽婆尸沙。若波逸提。是坐處。 比丘自言。我犯是罪。於三法中應一一治。 若婆羅夷。若僧伽婆尸沙。若波夜提。如有 信優婆夷所說。應如法治是比丘。是名不定 法。",
+ "label":  "Classical Chinese Kāśyapīya Bhikkhu Aniyata 1"
+}, {
+ "id": "lzh-ka-bu-pm-ay2",
+ "about": {
+  "VinayaTradition": "Kāśyapīya",
+  "MonasticOrder": "Bhikkhu",
+  "VinayaOffenseClass": "Aniyata"
+ },
+ "inLanguage": "Classical Chinese",
+ "isPartOf": "Taishō vol. 24 no.1460",
+ "text": "若比丘共一女人不覆處坐。有信優 婆夷。二法中一一法說。若僧伽婆尸沙。若 波逸提。是坐比丘自言。我犯是罪。二法中應 一一治。若僧伽婆尸沙。若波逸提。如有信 優婆夷所說。應如法治是比丘。是名不定 法。",
+ "label":  "Classical Chinese MahāKāśyapīyasaṅghika Bhikkhu Aniyata 2"
+}, {
  "id": "lzh-ka-bu-pm-np1",
  "about": {
   "VinayaTradition": "Kāśyapīya",
