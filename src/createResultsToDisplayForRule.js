@@ -1,7 +1,7 @@
 // createResultsToDisplayForRule.js
 import fs from 'fs';
-const availableParallels = JSON.parse(fs.readFileSync('./data/relationship/parallelsInAvailableText.json', 'utf-8'));
-//'LzhDgBiPm.json',
+const availableParallels = JSON.parse(fs.readFileSync('./src/data/relationship/parallelsInAvailableText.json', 'utf-8'));
+
 const mergedTextFiles = [
   'LzhMuBiPm.json',
   'LzhMuBuPm.json',
@@ -24,16 +24,16 @@ let dataArray = createDataArray(mergedTextFiles);
 console.log(dataArray.length);
 
 // THIS IS IT - FOR EVERY RULE IN ANY OF THE AVAILABLE TEXTS (currently 4210 rules), CONSTRUCT THE PARALLEL RULES DATA AND WRITE TO A SEPARATE FILE FOR EACH RULE.  THESE WILL GO INTO THE QUERYRESULTS FOLDER
-// dataArray.forEach(rule => {
-//   console.log(rule.id);
-//   writeResultsToQueryResultsFile(rule.id, createResultsToDisplayForRule(rule.id, dataArray));
-// });
+dataArray.forEach(rule => {
+  //console.log(rule.id);
+  writeResultsToQueryResultsFile(rule.id, createResultsToDisplayForRule(rule.id, dataArray));
+});
 
 function createDataArray(fileNameArray) {
   let dataArray = [];
   fileNameArray.forEach(fName => {
-    let fileName = "./data/mergedText/" + fName;
-
+    let fileName = "./src/data/mergedText/" + fName;
+    console.log("about to read: " + fileName);
     let fileData = fs.readFileSync(fileName, "utf8", (err, data) => {
       if (err) {
         console.log('oh no!');
@@ -52,7 +52,9 @@ function createDataArray(fileNameArray) {
 //TESTING
 // rule with lots of bells and whistles pli-tv-bu-pm-pj4
 //writeResultsToQueryResultsFile('pli-tv-bu-pm-pj4',createResultsToDisplayForRule('pli-tv-bu-pm-pj4', dataArray));
-
+// console.log("go");
+// writeResultsToQueryResultsFile('lzh-dg-bu-pm-2-sk53',createResultsToDisplayForRule('lzh-dg-bu-pm-2-sk53', dataArray));
+// console.log("gone");
 // writeResultsToQueryResultsFile('lzh-sarv-bu-pm-2-pd1',createResultsToDisplayForRule('lzh-sarv-bu-pm-2-pd1', dataArray));
 
 
@@ -69,8 +71,7 @@ function createDataArray(fileNameArray) {
 // rule with both full and partial parallels lzh-mu-bi-pm-pc79
 //writeResultsToQueryResultsFile('lzh-mu-bi-pm-pc79',createResultsToDisplayForRule('lzh-mu-bi-pm-pc79', dataArray));
 
-//Doesn't have any parallels
-createResultsToDisplayForRule('lzh-dg-bu-pm-as1', dataArray);
+// writeResultsToQueryResultsFile('lzh-dg-bu-pm-as1',createResultsToDisplayForRule('lzh-dg-bu-pm-as1', dataArray));
 //------------------------------
 
 // last updated: 09/12/2023 (dd/mm/yyyy) by: Ayya Niyyānika - initial creation
@@ -85,17 +86,17 @@ function createResultsToDisplayForRule(ruleId, dataArray) {
   let base = {};
   base.baseRuleHeader = constructBaseRuleHeader(ruleData);
   base.baseRule = constructBaseRule(ruleData);
-
+  base.metaTags = constructMetaTags(ruleData);
   if ('translations' in ruleData) {
     let translations = constructTranslations(ruleData);
     base.translations = translations;
   }
-  console.log(base);
+  //console.log(base);
   let parallelsMatches = availableParallels.find(element => {
     return element.parallels.includes(ruleId)
   });
-  console.log("constructing parallels from: ");
-  console.log(parallelsMatches);
+  //console.log("constructing parallels from: ");
+  //console.log(parallelsMatches);
   if (parallelsMatches) {
     let fullParallels = constructFullParallelsGroup(parallelsMatches, ruleId, dataArray);
     let partialParallels = constructPartialParallelsGroup(parallelsMatches, ruleId, dataArray);
@@ -131,7 +132,7 @@ function getRuleDataFromDataArray(ruleId, dataArray) {
 // returns: JSON object for the rule
 function getRuleData(ruleId) {
   let fileName = determineFileName(ruleId);
-  fileName = "./data/mergedText/" + fileName;
+  fileName = "./src/data/mergedText/" + fileName;
 
   let fileData = fs.readFileSync(fileName, "utf8", (err, data) => {
     if (err) {
@@ -224,7 +225,6 @@ function constructBaseRule(ruleData) {
   return baseRule;
 };
 
-
 //parameter: ruleId for which to construct metaTags
 //returns: metaTags JSON object
 function constructMetaTags(ruleId) {
@@ -233,6 +233,10 @@ function constructMetaTags(ruleId) {
   //   subject: ['feces','plants'],
   //   tags: ['Chinese', 'Sarvāstivāda', 'bhikkhunī','pācittiya', 'Disposing Feces on Plants']
   // }
+  let metaTags = {};
+  metaTags.subject = [];
+  metaTags.tags = [];
+  return metaTags;
 }
 
 //parameters: groupName for the group of rules, suchas fullParallels or partialParallels,
@@ -280,8 +284,8 @@ function constructParallel(ruleId, dataArray) {
   //    summary: 'A nun who disposes of feces, urine, or rubbish on cultivated plants must confess the offense.',
   //    translations: [...
   let ruleData = JSON.parse(getRuleDataFromDataArray(ruleId, dataArray));
-  console.log('ruleData for: ');
-  console.log(ruleData.id);
+  //console.log('ruleData for: ');
+  //console.log(ruleData.id);
   if (ruleData) {
     let parallelRule = {};
     parallelRule.id = ruleData.id;
@@ -343,12 +347,15 @@ function constructTranslation(ruleId) {
 };
 
 function writeResultsToQueryResultsFile(ruleId, resultsData) {
-  let fileName = "./data/queryResults/" + ruleId + ".json";
-  let fileContent = "[" + JSON.stringify(resultsData) + "]";
+  let fileName = "./src/data/queryResults/" + ruleId + ".js";
+  let fileContent = "export const result = " + JSON.stringify(resultsData) + ";";
 
   fs.writeFileSync(fileName, fileContent, function (err) {
-    if (err) throw err;
-    console.log('Saved!');
+    if (err) {
+      throw err; 
+    } else {
+    console.log('Saved :' + fileName);
+    }
   });
 };
 
