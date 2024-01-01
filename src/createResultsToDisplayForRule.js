@@ -3,37 +3,39 @@ import fs from 'fs';
 const availableParallels = JSON.parse(fs.readFileSync('./src/data/relationship/parallelsInAvailableText.json', 'utf-8'));
 
 const mergedTextFiles = [
+  'LzhDgBiPm.json',
+  'LzhDgBuPm.json',
+  'LzhDgBuPm2.json',
+  'LzhKaBuPm.json',
+  'LzhMgBiPm.json',
+  'LzhMgBuPm.json',
+  'LzhMiBiPm.json',
+  'LzhMiBuPm.json',
   'LzhMuBiPm.json',
   'LzhMuBuPm.json',
   'LzhSarvBiPm.json',
   'LzhSarvBuPm.json',
   'LzhSarvBuPm2.json',
   'PliTvBiPm.json',
-  'PliTvBuPm.json',
-  'LzhDgBuPm.json',
-  'LzhDgBiPm.json',
-  'LzhDgBuPm2.json',
-  'LzhKaBuPm.json',
-  'LzhMgBiPm.json',
-  'LzhMgBuPm.json',
-  'LzhMiBiPm.json',
-  'LzhMiBuPm.json'
+  'PliTvBuPm.json'
 ];
 
 let dataArray = createDataArray(mergedTextFiles);
 console.log(dataArray.length);
+
+let solos = [];
 
 // THIS IS IT - FOR EVERY RULE IN ANY OF THE AVAILABLE TEXTS (currently 4210 rules), CONSTRUCT THE PARALLEL RULES DATA AND WRITE TO A SEPARATE FILE FOR EACH RULE.  THESE WILL GO INTO THE QUERYRESULTS FOLDER
 dataArray.forEach(rule => {
   //console.log(rule.id);
   writeResultsToQueryResultsFile(rule.id, createResultsToDisplayForRule(rule.id, dataArray));
 });
+console.log(solos);
 
 function createDataArray(fileNameArray) {
   let dataArray = [];
   fileNameArray.forEach(fName => {
     let fileName = "./src/data/mergedText/" + fName;
-    console.log("about to read: " + fileName);
     let fileData = fs.readFileSync(fileName, "utf8", (err, data) => {
       if (err) {
         console.log('oh no!');
@@ -92,6 +94,8 @@ function createResultsToDisplayForRule(ruleId, dataArray) {
     base.translations = translations;
   }
   //console.log(base);
+  results.base = base;
+
   let parallelsMatches = availableParallels.find(element => {
     return element.parallels.includes(ruleId)
   });
@@ -101,15 +105,17 @@ function createResultsToDisplayForRule(ruleId, dataArray) {
     let fullParallels = constructFullParallelsGroup(parallelsMatches, ruleId, dataArray);
     let partialParallels = constructPartialParallelsGroup(parallelsMatches, ruleId, dataArray);
 
-    results.base = base;
     if (fullParallels.length > 0) {
       results.fullParallels = fullParallels;
     }
     if (partialParallels.length > 0) {
       results.partialParallels = partialParallels;
     }
-    return results;
+  } else {
+    console.log("no parallels for:" + ruleId);
+    solos.push(ruleId);
   }
+  return results;
 };
 // parameter: ruleId to find 
 // example: "lzh-dg-bu-pm-pj1"
@@ -347,8 +353,8 @@ function constructTranslation(ruleId) {
 };
 
 function writeResultsToQueryResultsFile(ruleId, resultsData) {
-  let fileName = "./src/data/queryResults/" + ruleId + ".js";
-  let fileContent = "export const result = " + JSON.stringify(resultsData) + ";";
+  let fileName = "./db/queryResults/" + ruleId + ".json";
+  let fileContent = JSON.stringify(resultsData);
 
   fs.writeFileSync(fileName, fileContent, function (err) {
     if (err) throw err; 

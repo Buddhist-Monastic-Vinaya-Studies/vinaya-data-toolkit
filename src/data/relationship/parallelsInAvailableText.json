@@ -179,6 +179,8 @@
 }, {
  "parallels": ["lzh-dg-bu-pm-sk95", "lzh-dg-bu-pm-2-sk95", "lzh-dg-bi-pm-sk95"]
 }, {
+"parallels": ["lzh-dg-bu-pm-sk98","lzh-dg-bi-pm-sk98"]
+}, {
  "parallels": ["lzh-ka-bu-pm-sk48", "~pli-tv-bu-pm-sk50", "~lzh-sarv-bu-pm-sk73", "~lzh-sarv-bu-pm-2-sk67", "~lzh-mu-bu-pm-sk73", "~lzh-mi-bu-pm-sk62", "~lzh-mg-bu-pm-sk37", "~lzh-dg-bu-pm-sk42", "~lzh-dg-bu-pm-2-sk42", "~pli-tv-bi-pm-sk50", "~lzh-dg-bi-pm-sk42", "~lzh-mi-bi-pm-sk62", "~lzh-sarv-bi-pm-sk70", "~lzh-mu-bi-pm-sk55", "~lzh-mg-bi-pm-sk50", "~pli-tv-bu-pm-sk51", "~lzh-mi-bu-pm-sk61", "~lzh-mg-bu-pm-sk38", "~lzh-dg-bu-pm-sk43", "~lzh-dg-bu-pm-2-sk43", "~pli-tv-bi-pm-sk51", "~lzh-dg-bi-pm-sk43", "~lzh-mi-bi-pm-sk61", "~lzh-sarv-bi-pm-sk69", "~lzh-mu-bi-pm-sk56", "~lzh-mg-bi-pm-sk51"]
 }, {
  "parallels": ["lzh-ka-bu-pm-sk72", "~lzh-mu-bi-pm-sk76"]
@@ -230,6 +232,8 @@
  "parallels": ["lzh-mg-bi-pm-sk14"]
 }, {
  "parallels": ["lzh-mg-bi-pm-ss7"]
+}, {
+ "parallels": ["lzh-mg-bu-pm-sk21","lzh-mi-bi-pm-sk17","lzh-mg-bi-pm-sk34"]
 }, {
  "parallels": ["lzh-mg-bu-pm-sk24", "~lzh-sarv-bu-pm-sk62", "~lzh-sarv-bu-pm-2-sk56", "~lzh-mu-bu-pm-sk62", "~lzh-ka-bu-pm-sk40", "~lzh-sarv-bi-pm-sk58", "~pli-tv-bu-pm-sk27", "~lzh-mi-bu-pm-sk51", "~lzh-dg-bu-pm-sk26", "~lzh-dg-bu-pm-2-sk26", "~pli-tv-bi-pm-sk27", "~lzh-dg-bi-pm-sk26", "~lzh-mi-bi-pm-sk51", "~lzh-mu-bi-pm-sk40", "~lzh-mg-bi-pm-sk37", "~lzh-sarv-bu-pm-sk63", "~lzh-sarv-bu-pm-2-sk57", "~lzh-mu-bu-pm-sk63", "~lzh-ka-bu-pm-sk46", "~lzh-sarv-bi-pm-sk59"]
 }, {
@@ -697,6 +701,8 @@
 }, {
  "parallels": ["lzh-sarv-bu-pm-sk108", "lzh-sarv-bu-pm-2-sk102", "lzh-dg-bu-pm-sk97", "lzh-dg-bi-pm-sk97", "lzh-sarv-bi-pm-sk101"]
 }, {
+ "parallels": ["lzh-dg-bu-pm-sk98","lzh-dg-bi-pm-sk98"]
+}, {
  "parallels": ["lzh-sarv-bu-pm-sk37", "lzh-sarv-bu-pm-2-sk30", "lzh-mu-bu-pm-sk37", "lzh-mi-bu-pm-sk17", "lzh-mu-bi-pm-sk18"]
 }, {
  "parallels": ["lzh-sarv-bu-pm-sk38", "lzh-sarv-bu-pm-2-sk31", "lzh-mu-bu-pm-sk38", "lzh-mi-bu-pm-sk18", "lzh-mi-bi-pm-sk18"]
@@ -1070,15 +1076,15 @@
  "parallels": ["pli-tv-bu-pm-as2", "lzh-sarv-bu-pm-as2", "lzh-sarv-bu-pm-2-as2", "lzh-mu-bu-pm-as2", "lzh-mi-bu-pm-as2", "lzh-mg-bu-pm-as2", "lzh-dg-bu-pm-as2",
  "lzh-dg-bi-pm-as2", "lzh-dg-bu-pm-2-as2", "lzh-ka-bu-pm-as2", "pli-tv-bi-pm-as2", "lzh-sarv-bi-pm-as2", "lzh-mu-bi-pm-as2", "lzh-mg-bi-pm-as2"]
 }, {
- "parallels": ["pli-tv-bu-pm-as3", "lzh-sarv-bu-pm-as3", "lzh-sarv-bu-pm-2-as3", "lzh-mu-bu-pm-as3", "lzh-mi-bu-pm-as3", "lzh-mg-bu-pm-as3", "lzh-dg-bu-pm-as3", "lzh-dg-bu-pm-2-as3", "lzh-ka-bu-pm-as3", "pli-tv-bi-pm-as3", "lzh-sarv-bi-pm-as3", "lzh-mu-bi-pm-as3", "lzh-mg-bi-pm-as3"]
+ "parallels": ["pli-tv-bu-pm-as3", "lzh-sarv-bu-pm-as3", "lzh-sarv-bu-pm-2-as3", "lzh-mu-bu-pm-as3", "lzh-mi-bu-pm-as3", "lzh-mg-bu-pm-as3", "lzh-dg-bi-pm-as3","lzh-dg-bu-pm-as3", "lzh-dg-bu-pm-2-as3", "lzh-ka-bu-pm-as3", "pli-tv-bi-pm-as3", "lzh-sarv-bi-pm-as3", "lzh-mu-bi-pm-as3", "lzh-mg-bi-pm-as3"]
 }, {
- "parallels": ["pli-tv-bu-pm-as4", "lzh-sarv-bu-pm-as4", "lzh-sarv-bu-pm-2-as4", "lzh-mu-bu-pm-as4", "lzh-mi-bu-pm-as5", "lzh-mg-bu-pm-as4", "lzh-dg-bu-pm-as4", "lzh-dg-bu-pm-2-as4", "lzh-ka-bu-pm-as4", "pli-tv-bi-pm-as4", "lzh-sarv-bi-pm-as4", "lzh-mu-bi-pm-as6", "lzh-mg-bi-pm-as4"]
+ "parallels": ["pli-tv-bu-pm-as4", "lzh-sarv-bu-pm-as4", "lzh-sarv-bu-pm-2-as4", "lzh-mu-bu-pm-as4", "lzh-mi-bu-pm-as5", "lzh-mg-bu-pm-as4", "lzh-dg-bi-pm-as4","lzh-dg-bu-pm-as4", "lzh-dg-bu-pm-2-as4", "lzh-ka-bu-pm-as4", "pli-tv-bi-pm-as4", "lzh-sarv-bi-pm-as4", "lzh-mu-bi-pm-as6", "lzh-mg-bi-pm-as4"]
 }, {
- "parallels": ["pli-tv-bu-pm-as5", "lzh-sarv-bu-pm-as6", "lzh-sarv-bu-pm-2-as6", "lzh-mu-bu-pm-as6", "lzh-mi-bu-pm-as6", "lzh-mg-bu-pm-as6", "lzh-dg-bu-pm-as6", "lzh-dg-bu-pm-2-as6", "lzh-ka-bu-pm-as6", "pli-tv-bi-pm-as5", "lzh-sarv-bi-pm-as6", "lzh-mu-bi-pm-as5", "lzh-mg-bi-pm-as6"]
+ "parallels": ["pli-tv-bu-pm-as5", "lzh-sarv-bu-pm-as6", "lzh-sarv-bu-pm-2-as6", "lzh-mu-bu-pm-as6", "lzh-mi-bu-pm-as6", "lzh-mg-bu-pm-as6", "lzh-dg-bi-pm-as6","lzh-dg-bu-pm-as6", "lzh-dg-bu-pm-2-as6", "lzh-ka-bu-pm-as6", "pli-tv-bi-pm-as5", "lzh-sarv-bi-pm-as6", "lzh-mu-bi-pm-as5", "lzh-mg-bi-pm-as6"]
 }, {
- "parallels": ["pli-tv-bu-pm-as6", "lzh-sarv-bu-pm-as5", "lzh-sarv-bu-pm-2-as5", "lzh-mu-bu-pm-as5", "lzh-mi-bu-pm-as4", "lzh-mg-bu-pm-as5", "lzh-dg-bu-pm-as5", "lzh-dg-bu-pm-2-as5", "lzh-ka-bu-pm-as5", "pli-tv-bi-pm-as6", "lzh-sarv-bi-pm-as5", "lzh-mu-bi-pm-as4", "lzh-mg-bi-pm-as5"]
+ "parallels": ["pli-tv-bu-pm-as6", "lzh-sarv-bu-pm-as5", "lzh-sarv-bu-pm-2-as5", "lzh-mu-bu-pm-as5", "lzh-mi-bu-pm-as4", "lzh-mg-bu-pm-as5", "lzh-dg-bi-pm-as5","lzh-dg-bu-pm-as5", "lzh-dg-bu-pm-2-as5", "lzh-ka-bu-pm-as5", "pli-tv-bi-pm-as6", "lzh-sarv-bi-pm-as5", "lzh-mu-bi-pm-as4", "lzh-mg-bi-pm-as5"]
 }, {
- "parallels": ["pli-tv-bu-pm-as7", "lzh-sarv-bu-pm-as7", "lzh-sarv-bu-pm-2-as7", "lzh-mu-bu-pm-as7", "lzh-mi-bu-pm-as7", "lzh-mg-bu-pm-as7", "lzh-dg-bu-pm-as7", "lzh-dg-bu-pm-2-as7", "lzh-ka-bu-pm-as7", "pli-tv-bi-pm-as7", "lzh-sarv-bi-pm-as7", "lzh-mu-bi-pm-as7", "lzh-mg-bi-pm-as7"]
+ "parallels": ["pli-tv-bu-pm-as7", "lzh-sarv-bu-pm-as7", "lzh-sarv-bu-pm-2-as7", "lzh-mu-bu-pm-as7", "lzh-mi-bu-pm-as7", "lzh-mg-bu-pm-as7", "lzh-dg-bi-pm-as7","lzh-dg-bu-pm-as7", "lzh-dg-bu-pm-2-as7", "lzh-ka-bu-pm-as7", "pli-tv-bi-pm-as7", "lzh-sarv-bi-pm-as7", "lzh-mu-bi-pm-as7", "lzh-mg-bi-pm-as7"]
 }, {
  "parallels": ["pli-tv-bu-pm-ay1", "lzh-sarv-bu-pm-ay1", "lzh-sarv-bu-pm-2-ay1", "lzh-mu-bu-pm-ay1", "lzh-mi-bu-pm-ay1", "lzh-mg-bu-pm-ay1", "lzh-dg-bu-pm-ay1", "lzh-dg-bu-pm-2-ay1", "lzh-ka-bu-pm-ay1"]
 }, {
